@@ -4,7 +4,7 @@ steps:
       database: ""
       dataset: ""
       deployEnabled: true
-      description: ""
+      description: Comment1
       locationID: ""
       locationName: RAW_GWC_PC_PROD_VF
       metadata:
